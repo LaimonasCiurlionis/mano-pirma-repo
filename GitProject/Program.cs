@@ -6,7 +6,8 @@ namespace GitProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Sveiki visi");
+            Console.WriteLine("Naujas projektas");
         }
     }
 }
