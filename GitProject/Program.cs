@@ -8,6 +8,8 @@ namespace GitProject
         {
             Console.WriteLine("Sveiki visi");
             Console.WriteLine("Naujas projektas");
+            Console.WriteLine("Feature-branch-2");
+            Console.WriteLine("Changes from Feature-branch-2");
         }
     }
 }
